@@ -1,0 +1,2 @@
+# lamed-pharmacy
+inventory application
